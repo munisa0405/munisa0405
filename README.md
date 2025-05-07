@@ -1,12 +1,4 @@
 - 👋 Hi, I’m @munisashodiyorova
-- 👀 I’m interested in learning frontent developer
+- 👀 I’m interested in learning frontend developer
 - 🌱 I’m currently learning html css and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-munisa0405/munisa0405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
